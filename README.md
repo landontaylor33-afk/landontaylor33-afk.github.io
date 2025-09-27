@@ -8,3 +8,5 @@ Hi I am Landon Taylor. I am 18 year olds and this is my first year at Boise Stat
 * reading
 * hiking
 * running
+### Asperations
+I am working towards becoming a software engineer, specifically one for VR. 
